@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote fetch=".." name="aosp"/>
+  <remote fetch="https://android.googlesource.com" name="aosp"/>
   <remote fetch="https://github.com/ayufan-pine64" name="ayufan"/>
   <remote fetch="https://github.com/CyanogenMod" name="cm"/>
   <remote fetch="https://github.com/omnirom" name="omnirom"/>
